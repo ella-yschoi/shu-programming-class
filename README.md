@@ -37,10 +37,10 @@
 
 ### JavaScript 개념
 
-- [JavaScript 내장함수의 세계](/JavaScript/00_내장함수.md)
-- [전개구문](/JavaScript/01_전개구문.md)
-- [얕은 복사와 깊은 복사](/JavaScript/02_얕은복사_깊은복사.md)
-- [구조분해할당](/JavaScript/03_구조분해할당.md)
+- [JavaScript 내장함수의 세계](/JavaScript/01_내장함수.md)
+- [전개구문](/JavaScript/02_전개구문.md)
+- [얕은 복사와 깊은 복사](/JavaScript/03_얕은복사_깊은복사.md)
+- [구조분해할당](/JavaScript/04_구조분해할당.md)
 
 ### 기술 면접
 
