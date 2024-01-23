@@ -2,7 +2,7 @@
 
 Node.js 환경에서는 NPM 뿐만 아니라 Yarn이라는 다른 패키지 매니저도 사용할 수 있습니다. NPM과 Yarn은 둘 다 JavaScript 개발자들이 외부 라이브러리나 프레임워크를 쉽게 설치하고 관리할 수 있도록 도와주는 패키지 관리 툴 입니다. 각각의 특징은 다음과 같습니다.
 
-> Reference: [NPM과 Yarn](https://velog.io/@kysung95/%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D-NPM%EA%B3%BC-Yarn)
+> Reference: [NPM과 Yarn](https://velog.io/@kysung95/%EA%B0%9C%EB%B0%9C%EC%83%81%EC%8B%9D-npm%EA%B3%BC-yarn)
 
 <br/>
 
