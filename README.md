@@ -41,7 +41,7 @@
 
 ### Etc
 
-- [NPM과 Yarn의 차이](/Etc./NPM_vs_Yarn.md)
+- [NPM과 Yarn의 차이](/Etc/NPM_vs_Yarn.md)
 
 ### JavaScript 개념
 
