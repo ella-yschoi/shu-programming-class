@@ -35,18 +35,21 @@
 
 ## 5. 강의 목록
 
+### Architecture
+
+- [함수형 프로그래밍이란?](/Architecture/함수형_프로그래밍.md)
+
+### Etc
+
+- [NPM과 Yarn의 차이](/Etc./NPM_vs_Yarn.md)
+
 ### JavaScript 개념
 
-- [JavaScript 내장함수의 세계](/JavaScript/01_내장함수.md)
-- [전개구문](/JavaScript/02_전개구문.md)
+- [내장함수의 세계](/JavaScript/01_내장함수.md)
+- [전개 구문](/JavaScript/02_전개구문.md)
 - [얕은 복사와 깊은 복사](/JavaScript/03_얕은복사_깊은복사.md)
-- [구조분해할당](/JavaScript/04_구조분해할당.md)
+- [구조 분해 할당](/JavaScript/04_구조분해할당.md)
 
-### 기술 면접
+### OS
 
-- [함수형 프로그래밍이란?](/Interview/01_함수형_프로그래밍.md)
-
-### 알고리즘 문제 풀이
-
-- [최댓값과 최솟값](/Algorithm/01_최댓값과_최솟값.js)
-- [JadenCase 문자열 만들기](/Algorithm/02_JadenCase_문자열_만들기.js)
+- [프로세스와 스레드의 차이](/OS/프로세스_스레드.md)
