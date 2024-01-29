@@ -38,18 +38,19 @@
 ### Architecture
 
 - [함수형 프로그래밍이란?](/Architecture/함수형_프로그래밍.md)
+- [절차지향 프로그래밍과 객체지향 프로그래밍](/Architecture/절차지향_vs_객체지향.md)
 
 ### Etc
 
-- [NPM과 Yarn의 차이](/Etc/NPM_vs_Yarn.md)
+- [NPM과 Yarn](/Etc/NPM_vs_Yarn.md)
+- [Java 빌드 도구](/Etc/빌드_도구_Java.md)
 
 ### JavaScript 개념
 
 - [내장함수의 세계](/JavaScript/01_내장함수.md)
 - [전개 구문](/JavaScript/02_전개구문.md)
 - [얕은 복사와 깊은 복사](/JavaScript/03_얕은복사_깊은복사.md)
-- [구조 분해 할당](/JavaScript/04_구조분해할당.md)
 
 ### OS
 
-- [프로세스와 스레드의 차이](/OS/프로세스_스레드.md)
+- [프로세스와 스레드](/OS/프로세스_스레드.md)
