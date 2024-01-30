@@ -18,9 +18,10 @@
 
 ## 3. 강의 내용
 
+- HTML/CSS 개념 설명
 - JavaScript 개념 설명
 - React 개념 설명
-- JavaScript 알고리즘 문제 풀이
+- 알고리즘 문제 풀이
 - 프로젝트 코드리뷰 등
 
 <br/>
@@ -45,7 +46,12 @@
 - [NPM과 Yarn](/Etc/NPM_vs_Yarn.md)
 - [Java 빌드 도구](/Etc/빌드_도구_Java.md)
 
-### JavaScript 개념
+### HTML
+
+- [DOM](/HTML/DOM.md)
+- [시맨틱 마크업](/HTML/semantic.md)
+
+### JavaScript
 
 - [내장함수의 세계](/JavaScript/01_내장함수.md)
 - [전개 구문](/JavaScript/02_전개구문.md)
