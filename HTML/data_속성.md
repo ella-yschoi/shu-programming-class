@@ -4,6 +4,7 @@
 > - [W3C - HTML data Attributes](https://www.w3schools.com/tags/att_global_data.asp)
 > - [취준생이 반드시 알아야 할 프론트엔드 지식들 - data 속성](https://github.com/baeharam/Must-Know-About-Frontend/blob/main/Notes/html/data.md)
 > - [오쌤의 니가스터디 - Chapter34. HTML - data- 사용자 정의속성](https://www.youtube.com/watch?v=xXN2jMb0eCg)
+> - [Frontend Interview Handbook - data 속성은 무엇에 좋은가요?](https://www.frontendinterviewhandbook.com/kr/html-questions/#data-%EC%86%8D%EC%84%B1%EC%9D%80-%EB%AC%B4%EC%97%87%EC%97%90-%EC%A2%8B%EC%9D%80%EA%B0%80%EC%9A%94)
 
 <br/>
 
@@ -13,7 +14,8 @@
 2. [등장 배경](#2-등장-배경)
 3. [정의 및 사용](#3-정의-및-사용)
 4. [사용자 정의 속성 문법](#4-사용자-정의-속성-문법)
-5. [사용 예시 및 실습](#5-사용-예시-및-실습)
+5. [사용 시 장점](#5-사용-시-장점)
+6. [요즘 트렌드](#6-요즘-트렌드)
 
 <br/>
 
@@ -70,3 +72,15 @@ HTML에서는 원래 지정된 속성만 사용할 수 있었습니다. 예를 �
   img [ data-animal-type='fish' ]{ border: 5px solid yellow; }
 </style>
 ```
+
+<br/>
+
+## 5. 사용 시 장점
+
+JavaScript 프레임워크가 인기 있기 전에, 프론트엔드 개발자는 비표준 속성, DOM 추가 프로퍼티 등의 조작 없이, DOM 자체에 추가적인 데이터를 저장하기 위해 data-속성을 사용했었습니다. 이는 적절한 속성이나 요소가 없는 페이지나 애플리케이션에 **사용자 정의 데이터를 비공개로 저장하기 위한** 것입니다.
+
+<br/>
+
+## 6. 요즘 트렌드
+
+요즘에는 data-속성을 사용하는 것을 권장하지 않습니다. 그 이유 중 하나는 **사용자가 브라우저의 inspect 기능를 사용하여 데이터 속성을 쉽게 수정할 수 있다는 것**입니다. 데이터 모델은 JavaScript 자체에 더 잘 저장되며, 라이브러리나 프레임워크의 데이터 바인딩을 통해 DOM을 업데이트된 상태로 유지하는 것이 더 낫습니다.
