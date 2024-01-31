@@ -48,8 +48,11 @@
 
 ### HTML
 
+- [data 속성](/HTML/data_속성.md)
 - [DOM](/HTML/DOM.md)
+- [DOM0와 DOM2](/HTML/DOM0_DOM2.md)
 - [시맨틱 마크업](/HTML/semantic.md)
+- [shadow DOM](/HTML/shadow_DOM.md)
 
 ### JavaScript
 
