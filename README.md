@@ -46,7 +46,7 @@
 - [!important](/CSS/!important.md)
 - [CSS의 크기 단위](/CSS/css_단위.md)
 - [position의 종류와 특징](/CSS/position.md)
-- [CSS selector specificity](/CSS/selector_specificity.md)
+- [CSS selector specificity](/CSS/CSS_selector_specificity.md)
 
 ### Etc
 
