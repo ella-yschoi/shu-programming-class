@@ -10,19 +10,18 @@
 
 <br/>
 
-## 2. 강의자
+## 2. 참석자
 
-- 최연수 (a.k.a. 슈)
+- 강의자: [@ella-yschoi](https://github.com/ella-yschoi) (FE, a.k.a. 슈)
+- 수강생: [@chloe-codes1](https://github.com/chloe-codes1) (BE)
 
 <br/>
 
 ## 3. 강의 내용
 
-- HTML/CSS 개념 설명
-- JavaScript 개념 설명
-- React 개념 설명
+- HTML/CSS/JavaScript/React 개념 설명
 - 알고리즘 문제 풀이
-- 프로젝트 코드리뷰 등
+- 프로젝트 코드 리뷰 등
 
 <br/>
 
@@ -38,8 +37,16 @@
 
 ### Architecture
 
-- [함수형 프로그래밍이란?](/Architecture/함수형_프로그래밍.md)
-- [절차지향 프로그래밍과 객체지향 프로그래밍](/Architecture/절차지향_vs_객체지향.md)
+- [객체지향 프로그래밍](/Architecture/객체지향_프로그래밍.md)
+- [절차지향 프로그래밍](/Architecture/절차지향_프로그래밍.md)
+- [함수형 프로그래밍](/Architecture/함수형_프로그래밍.md)
+
+### CSS
+
+- [!important](/CSS/!important.md)
+- [CSS의 크기 단위](/CSS/css_단위.md)
+- [position의 종류와 특징](/CSS/position.md)
+- [CSS selector specificity](/CSS/selector_specificity.md)
 
 ### Etc
 
