@@ -44,8 +44,10 @@
 ### CSS
 
 - [!important](/CSS/!important.md)
+- [CSS 박스 모델](/CSS/CSS_box_model.md)
 - [CSS의 크기 단위](/CSS/css_단위.md)
 - [position의 종류와 특징](/CSS/position.md)
+- [display 속성](/CSS/display_속성.md)
 - [CSS selector specificity](/CSS/CSS_selector_specificity.md)
 
 ### Etc
@@ -63,9 +65,9 @@
 
 ### JavaScript
 
-- [내장함수의 세계](/JavaScript/01_내장함수.md)
-- [전개 구문](/JavaScript/02_전개구문.md)
-- [얕은 복사와 깊은 복사](/JavaScript/03_얕은복사_깊은복사.md)
+- [내장함수의 세계](/JavaScript/내장함수.md)
+- [얕은 복사와 깊은 복사](/JavaScript/얕은복사_깊은복사.md)
+- [전개 구문](/JavaScript/전개구문.md)
 
 ### OS
 
