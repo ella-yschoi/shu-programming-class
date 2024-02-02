@@ -91,4 +91,4 @@ span, div {
 
 ## 5. 참고 및 실습
 
-[제로초 - CSS 포지션(position)](https://www.zerocho.com/category/CSS/post/5864f3b59f1dc000182d3ea1)
+- [제로초 - CSS 포지션(position)](https://www.zerocho.com/category/CSS/post/5864f3b59f1dc000182d3ea1)
