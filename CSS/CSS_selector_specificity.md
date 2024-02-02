@@ -17,4 +17,4 @@
 
 ## 2. 참고 자료
 
-[[CSS] 선택자(selector) 우선순위, 명시도(specificity), !important](https://leettle.tistory.com/13)
+- [[CSS] 선택자(selector) 우선순위, 명시도(specificity), !important](https://leettle.tistory.com/13)
