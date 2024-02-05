@@ -28,7 +28,7 @@ Shadow DOM은 웹 컴포넌트의 핵심 기술 중 하나로, 주요 DOM에서 
 
 Shadow DOM은 숨겨진 DOM 트리가 통상적인 DOM 트리에 속한 요소에 부착될 수 있게 합니다. 이 shadow DOM 트리는 shadow root로부터 시작되어 원하는 모든 요소의 안에 부착될 수 있으며, 그 방법은 일반 DOM과 같습니다. (아래 사진에서 Flattened Tree (for rendering)는 (렌더링을 위해) 평평해진 트리)
 
-<p align="left" width="100%"><a href="https://developer.mozilla.org/ko/docs/Web/API/Web_components/Using_shadow_DOM"><img width="800" alt="ShadowDOM" src="https://github.com/ella-yschoi/shu-programming-class/assets/123397411/8bd79683-5af6-4c92-9c38-a7b446ed97c3"></a>
+<p align="left" width="100%"><a href="https://developer.mozilla.org/ko/docs/Web/API/Web_components/Using_shadow_DOM"><img width="1000" alt="ShadowDOM" src="https://github.com/ella-yschoi/shu-programming-class/assets/123397411/8bd79683-5af6-4c92-9c38-a7b446ed97c3"></a>
 
 <br/>
 
