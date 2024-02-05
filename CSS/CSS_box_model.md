@@ -8,8 +8,9 @@ CSS 박스 모델은 문서 트리의 요소에 대해 생성되고 시각적 �
 
 <!-- no toc -->
 1. [CSS Box Model의 개념과 특성](#1-css-box-model의-개념과-특성)
-2. [box-sizing](#2-box-sizing)
-3. [참고 자료](#3-참고-자료)
+2. [Padding과 Margin의 차이](#2-padding과-margin의-차이)
+3. [box-sizing](#3-box-sizing)
+4. [참고 자료](#4-참고-자료)
 
 <br/>
 
@@ -24,7 +25,25 @@ CSS 박스 모델은 문서 트리의 요소에 대해 생성되고 시각적 �
 
 <br/>
 
-## 2. box-sizing
+## 2. Padding과 Margin의 차이
+
+### (1) 차이를 구분하는 것이 중요한 이유
+
+두 속성은 요소의 레이아웃과 공간 분배에 영향을 미치며, 웹 페이지의 레이아웃을 정확하게 제어하고, 요소 간의 **시각적 관계를 명확하게 표현하는 데 필수적**입니다.
+
+### (2) padding
+
+- 요소의 **경계 내부**에 공간을 추가하여, **요소의 내용과 그 경계 사이의 공간**을 늘리는 데 사용됩니다.
+- padding은 요소의 **전체 크기**에 영향을 미치며, 배경색이나 이미지는 padding 영역까지 확장됩니다.
+
+### (3) margin
+
+- **요소의 외부**에 공간을 추가하여, **주변 요소와의 거리**를 조절합니다.
+- margin은 요소의 전체 크기에 직접적으로 영향을 주지 않으며, 배경색이나 이미지는 Margin 영역에 적용되지 않습니다.
+
+<br/>
+
+## 3. box-sizing
 
 box-sizing 속성을 사용하면, width와 height이 컨텐츠 영역 기준인지, 테두리 영역 기준인지 정할 수 있습니다.
 
@@ -35,7 +54,7 @@ box-sizing 속성을 사용하면, width와 height이 컨텐츠 영역 기준인
 
 <br/>
 
-## 3. 참고 자료
+## 4. 참고 자료
 
 - [Frontend Interview Handbook - 박스 모델](https://www.frontendinterviewhandbook.com/kr/css-questions/#%EB%B0%95%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%9D%B4%ED%95%B4%EC%99%80-css%EC%97%90%EC%84%9C-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90-%EB%8B%A4%EB%A5%B8-%EB%B0%95%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EB%A1%9C-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%EC%9D%84-%EB%A0%8C%EB%8D%94%EB%A7%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%84%A4%EB%AA%85%ED%95%98%EC%84%B8%EC%9A%94)
 - [CSS box model에 대해서 설명해 주세요.](https://dev-ellachoi.tistory.com/18)
