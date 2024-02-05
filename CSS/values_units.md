@@ -39,3 +39,4 @@
 ## 2. 참고 자료
 
 - [[CSS 단위] 아직도 헷갈린다면 이제는 확실히 알아두자.](https://dev-ellachoi.tistory.com/97)
+- [MDN - CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)

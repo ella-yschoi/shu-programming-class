@@ -37,44 +37,44 @@
 
 ### Architecture
 
-- [객체지향 프로그래밍](/Architecture/객체지향_프로그래밍.md)
-- [절차지향 프로그래밍](/Architecture/절차지향_프로그래밍.md)
-- [함수형 프로그래밍](/Architecture/함수형_프로그래밍.md)
+- [Functional Programming](/Architecture/functional_programming.md)
+- [Object Oriented Programming](/Architecture/object_oriented_programming.md)
+- [Procedural Programming](/Architecture/procedural_programming.md)
 
 ### CSS
 
 - [!important](/CSS/!important.md)
-- [CSS Box Model](/CSS/CSS_box_model.md)
-- [CSS Selector Specificity](/CSS/CSS_selector_specificity.md)
-- [CSS의 크기 단위](/CSS/CSS_크기_단위.md)
+- [Box Model](/CSS/box_model.md)
 - [display 속성](/CSS/display.md)
 - [position 속성](/CSS/position.md)
 - [Pseudo Classes](/CSS/pseudo_classes.md)
-- [CSS Selectors](/CSS/selectors.md)
+- [Selector Specificity](/CSS/selector_specificity.md)
+- [Selectors](/CSS/selectors.md)
+- [Values and Units](/CSS/values_units.md)
 
 ### Etc
 
-- [NPM과 Yarn](/Etc/NPM_vs_Yarn.md)
-- [Java 빌드 도구](/Etc/빌드_도구_Java.md)
+- [Java 빌드 도구](/Etc/build_tools_Java.md)
+- [NPM vs. Yarn](/Etc/npm_yarn.md)
 
 ### HTML
 
-- [data 속성](/HTML/data_속성.md)
+- [data 속성](/HTML/data.md)
 - [DOM](/HTML/DOM.md)
-- [DOM0와 DOM2](/HTML/DOM0_DOM2.md)
+- [DOM0 vs. DOM2](/HTML/DOM0_DOM2.md)
 - [Semantics](/HTML/semantic.md)
 - [Shadow DOM](/HTML/shadow_DOM.md)
 
 ### JavaScript
 
-- [내장함수의 세계](/JavaScript/내장함수.md)
-- [얕은 복사와 깊은 복사](/JavaScript/얕은복사_깊은복사.md)
-- [Spread Syntax](/JavaScript/전개구문.md)
+- [Built-in Objects](/JavaScript/built_in_objects.md)
+- [Shallow Copy vs. Deep Copy](/JavaScript/shallow_copy_deep_copy.md)
+- [Spread Syntax](/JavaScript/spread_syntax.md)
 
 ### OS
 
-- [프로세스와 스레드](/OS/프로세스_스레드.md)
+- [Process vs. Thread](/OS/process_thread.md)
 
 ### Web
 
-- [Polyfill과 Fallback](/Web/polyfill_fallback.md)
+- [Polyfill vs. Fallback](/Web/polyfill_fallback.md)
