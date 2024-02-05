@@ -62,15 +62,19 @@
 - [data 속성](/HTML/data_속성.md)
 - [DOM](/HTML/DOM.md)
 - [DOM0와 DOM2](/HTML/DOM0_DOM2.md)
-- [시맨틱 마크업](/HTML/semantic.md)
-- [shadow DOM](/HTML/shadow_DOM.md)
+- [Semantics](/HTML/semantic.md)
+- [Shadow DOM](/HTML/shadow_DOM.md)
 
 ### JavaScript
 
 - [내장함수의 세계](/JavaScript/내장함수.md)
 - [얕은 복사와 깊은 복사](/JavaScript/얕은복사_깊은복사.md)
-- [전개 구문](/JavaScript/전개구문.md)
+- [Spread Syntax](/JavaScript/전개구문.md)
 
 ### OS
 
 - [프로세스와 스레드](/OS/프로세스_스레드.md)
+
+### Web
+
+-[Polyfill과 Fallback](/Web/polyfill_fallback.md)
