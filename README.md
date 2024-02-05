@@ -44,11 +44,13 @@
 ### CSS
 
 - [!important](/CSS/!important.md)
-- [CSS 박스 모델](/CSS/CSS_box_model.md)
-- [CSS의 크기 단위](/CSS/css_단위.md)
-- [position의 종류와 특징](/CSS/position.md)
-- [display 속성](/CSS/display_속성.md)
-- [CSS selector specificity](/CSS/CSS_selector_specificity.md)
+- [CSS Box Model](/CSS/CSS_box_model.md)
+- [CSS Selector Specificity](/CSS/CSS_selector_specificity.md)
+- [CSS의 크기 단위](/CSS/CSS_크기_단위.md)
+- [display 속성](/CSS/display.md)
+- [position 속성](/CSS/position.md)
+- [Pseudo Classes](/CSS/pseudo_classes.md)
+- [CSS Selectors](/CSS/selectors.md)
 
 ### Etc
 
