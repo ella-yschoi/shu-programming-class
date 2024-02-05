@@ -1,6 +1,6 @@
 # 📒 DOM
 
-> Reference: [유노코딩: DOM이란 뭘까요? 초 짧은 설명..!](https://www.youtube.com/watch?v=zyz1eJJjsNE)
+DOM은 HTML 코드를 해석해서 요소들을 트리 형태로 구조화해 표현하는 형식이며, 스크립트 및 프로그래밍 언어와 페이지를 연결합니다. 주로 JavaScript를 사용해 웹 화면의 콘텐츠를 추가, 수정, 삭제하거나 이벤트를 처리할 수 있도록 프로그래밍 인터페이스를 제공합니다.
 
 <br/>
 
@@ -9,7 +9,9 @@
 <!-- no toc -->
 1. [DOM 이란?](#1-dom-이란)
 2. [DOM의 역할](#2-dom의-역할)
-3. [요약](#3-요약)
+3. [HTML DOM과 JavaScript의 관계](#3-html-dom과-javascript의-관계)
+4. [일부 DOM 인터페이스가 사용되지 않는 이유](#4-일부-dom-인터페이스가-사용되지-않는-이유)
+5. [참고 자료](#5-참고-자료)
 
 <br/>
 
@@ -71,7 +73,28 @@ DOM은 JavaScript를 사용하여 웹 콘텐츠를 추가, 수정, 삭제하거�
 
 <br/>
 
-## 3. 요약
+## 3. HTML DOM과 JavaScript의 관계
 
-- DOM은 HTML 코드를 해석해서 요소들을 트리 형태로 구조화해 표현하는 형식입니다.
-- DOM은 JavaScript를 사용해서 웹 화면의 콘텐츠를 추가, 수정, 삭제하거나 이벤트를 처리할 수 있도록 프로그래밍 인터페이스를 제공합니다.
+HTML DOM은 웹 페이지의 구조적 표현이며, JavaScript는 이러한 구조에 접근하고 조작하는 수단입니다. 하나가 다른 하나보다 상위에 있다기보다는, 둘은 서로 상호작용하며 웹 페이지의 동적인 동작을 가능하게 하는 역할을 합니다.
+
+정리하자면 둘은 "따로" 있는 것이 아니라, "같이" 있는 것으로 볼 수 있습니다. HTML DOM은 기본적인 웹 페이지의 '골격'을 제공하고, JavaScript를 통한 DOM 조작은 이 '골격'에 '생명'을 불어넣어 사용자와의 상호작용을 가능하게 한다고 볼 수 있습니다.
+
+<br/>
+
+## 4. 일부 DOM 인터페이스가 사용되지 않는 이유
+
+문서객체모델 (DOM)의 발전과정에서 `DOMConfiguration`, `DOMErrorHandler`, `DOMImplementationList`와 같은 인터페이스가 더 이상 사용되지 않게 된 것은 기술의 진화, 웹 표준의 조정, 그리고 개발자들의 요구에 따른 것입니다.
+
+브라우저의 변화 방향성은 웹 표준의 조정, 개발자 커뮤니티의 피드백, 보안과 성능 등을 반영합니다. 이를 위해 오래된 기능들은 보다 새롭고 효율적인 기능들로 대체되고 있으며, 웹 표준도 이러한 변화를 반영하여 지속적으로 갱신되고 있습니다.
+
+웹 표준이 바뀌는 이유는 다양하며 이러한 변화는 주로 웹의 진화, 기술의 발전, 사용자와 개발자의 필요에 따라 이루어집니다. 특히 사용자의 인터넷 사용 방식과 트렌드, 웹 디자인을 반영하거나 새로운 보안 위협에 대응하고 성능을 향상시키기 위한 목적으로도 웹 표준이 발전합니다.
+
+웹 표준을 조정하고 발전시키는 과정은 W3C (World Wide Web Consortium)와 WHATWG (Web Hypertext Application Technology Working Group)와 같은 조직에서 주도하며, 이를 통해 웹은 보다 접근성이 높고, 사용하기 쉽고, 강력하며, 보안이 강화된 플랫폼으로 발전하고 있습니다.
+
+<br/>
+
+## 5. 참고 자료
+
+- [MDN: 문서 객체 모델(DOM)](https://developer.mozilla.org/ko/docs/Web/API/Document_Object_Model)
+- [MDN: DOM 소개](https://developer.mozilla.org/ko/docs/Web/API/Document_Object_Model/Introduction#dom_%EA%B3%BC_javascript)
+- [유노코딩: DOM이란 뭘까요? 초 짧은 설명..!](https://www.youtube.com/watch?v=zyz1eJJjsNE)
