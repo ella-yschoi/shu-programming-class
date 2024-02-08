@@ -54,11 +54,12 @@
 
 ### Etc
 
-- [Java 빌드 도구](/Etc/build_tools_Java.md)
+- [Java Build Tools](/Etc/build_tools_Java.md)
 - [NPM vs. Yarn](/Etc/npm_yarn.md)
 
 ### HTML
 
+- [Boilerplate](/HTML/boilerplate.md)
 - [data 속성](/HTML/data.md)
 - [DOM](/HTML/DOM.md)
 - [DOM0 vs. DOM2](/HTML/DOM0_DOM2.md)
@@ -68,6 +69,7 @@
 ### JavaScript
 
 - [Built-in Objects](/JavaScript/built_in_objects.md)
+- [Hoisting](/JavaScript/hoisting.md)
 - [Shallow Copy vs. Deep Copy](/JavaScript/shallow_copy_deep_copy.md)
 - [Spread Syntax](/JavaScript/spread_syntax.md)
 
