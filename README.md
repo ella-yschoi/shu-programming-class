@@ -72,6 +72,7 @@
 - [Hoisting](/JavaScript/hoisting.md)
 - [Shallow Copy vs. Deep Copy](/JavaScript/shallow_copy_deep_copy.md)
 - [Spread Syntax](/JavaScript/spread_syntax.md)
+- [var, let and const](/JavaScript/var_let_const.md)
 
 ### OS
 
