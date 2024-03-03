@@ -38,6 +38,7 @@
 ### Architecture
 
 - [Functional Programming](/Architecture/functional_programming.md)
+- [Monorepo](/Architecture/monorepo.md)
 - [Object Oriented Programming](/Architecture/object_oriented_programming.md)
 - [Procedural Programming](/Architecture/procedural_programming.md)
 
