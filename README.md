@@ -70,6 +70,7 @@
 ### JavaScript
 
 - [Built-in Objects](/JavaScript/built_in_objects.md)
+- [Closure](/JavaScript/closure.md)
 - [Hoisting](/JavaScript/hoisting.md)
 - [Scope](/JavaScript/scope.md)
 - [Shallow Copy vs. Deep Copy](/JavaScript/shallow_copy_deep_copy.md)
