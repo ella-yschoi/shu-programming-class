@@ -50,3 +50,4 @@ myClosure(); // 100: outerVariable에 여전히 접근 가능
 - [MDN - 클로저](https://developer.mozilla.org/ko/docs/Web/JavaScript/Closures)
 - [[10분 테코톡] 🍧 엘라의 Scope & Closure](https://www.youtube.com/watch?v=PVYjfrgZhtU)
 - [[생활코딩] JavaScript - closure](https://www.youtube.com/watch?v=bwwaSwf7vkE)
+- [[NHN Cloud] - 자바스크립트의 스코프와 클로저](https://meetup.nhncloud.com/posts/86)
