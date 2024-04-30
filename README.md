@@ -57,6 +57,7 @@
 
 - [Java Build Tools](/Etc/build_tools_Java.md)
 - [NPM vs. Yarn](/Etc/npm_yarn.md)
+- [Runtime Error vs. Compile Error](/Etc/runtime_compile_error.md)
 
 ### HTML
 
